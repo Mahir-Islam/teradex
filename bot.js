@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const fetch = require('node-fetch');
-const config = require('./token.json')
+// const config = require('./token.json')
 
 const {
     Client,
